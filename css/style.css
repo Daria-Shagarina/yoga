@@ -497,9 +497,6 @@ button{
       height: 219px;
       margin-left: 50px;
    }
-   .meditation {
-      background-position: right;
-   }
    .meditation__block {
       gap: 0 289px;
    }
@@ -622,6 +619,9 @@ button{
       width: 769px;
       height: 234px;
       right: 50px;
+   }
+ .meditation {
+      background-position: right;
    }
 }
 @media(max-width:1000px){
